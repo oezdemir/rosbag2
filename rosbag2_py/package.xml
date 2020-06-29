@@ -10,7 +10,7 @@
 
   <buildtool_depend>ament_cmake_ros</buildtool_depend>
 
-  <depend>python11-dev</depend>
+  <depend>pybind11-dev</depend>
   <depend>rosbag2_cpp</depend>
   <depend>rosbag2_compression</depend>
 
